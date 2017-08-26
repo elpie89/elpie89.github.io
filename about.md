@@ -3,16 +3,21 @@ layout: page
 title: About
 ---
 
-![]({{ site.url }}/blog/assets/fredrik.jpg)
+Luca Pierabella
+3D Artist, Programmer for short a Technical Artist
 
-Throughout the years I have been spending my professional life within the digital domain of creativity; from web site design/development to 3D animation and digital visual effects for feature films. With 15+ years of hands on experience within the field of computer graphics, including co-founding [Filmgate](http://www.filmgate.se), having catered to clients and coached production teams in the ad agency world as well as having developed several graphics pipelines, I now take part in the extraordinary team of talent at [Industriromantik](http://www.industriromantik.se) as a multi-disciplinary creative and Technical Director.
+## More Information
 
-## Get in touch!
+I studied at the Big Rock Center @ Treviso,to mastering my CG skills. After this, i worked in the 3D field with many architecture studios and Ars Medica Italia.
+I graduated in Computer Science at the University of L’Aquila, with a thesis about shader languages in Unity and how they work in DiXidiasoft’s most recent game: The Steampunk League.
+As a technical artist i have many interests in the field of artistic CG, especially for modeling through Maya and ZBrush.
+I also try not to ever miss the technical aspect of things as a result I have a particular passion for the rig and writing shaders.
+I love my job, I think it is first of all a passion and this leads me to see any delivery or project as a challenge, often I am going to do beyond working hours.
+Other times instead I work on personal projects and study something new, that maybe i could use in the near future.
 
-fredrik@averpil.com  
-+46-708-121275  
-[github.com/fredrikaverpil](https://github.com/fredrikaverpil)  
-[linkedin.com/in/fredrik](https://linkedin.com/in/fredrik)
+## Contact me
+
+[pierabellaluca@gmail.com](mailto:pierabellaluca@gmail.com)
 
 
 ## Blog info
