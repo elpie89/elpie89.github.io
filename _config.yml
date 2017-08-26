@@ -6,13 +6,13 @@ highlighter:          rouge
 permalink:            pretty
 
 # Setup
-title:                Fredrik Averpil
+title:                Luca Pierabella
 tagline:              My personal blog
-description:          My personal blog – on Python development, 3D graphics, compositing and photography.
-url:                  https://fredrikaverpil.github.io
+description:          A blog about technical art, personal work and often just a notebook to share
+url:                  https://elpie89.github.io/
 baseurl:
 paginate:             5
-name:                 Fredrik Averpil
+name:                 Luca Pierabella
 
 gems:
   - jekyll-seo-tag
@@ -20,15 +20,15 @@ gems:
   - jekyll-gist
 
 # SEO
-twitter:
-  username:           fredrikaverpil
-  url:                https://twitter.com/fredrikaverpil
-social:
-  name:               Fredrik Averpil
-  links:
-    - https://linkedin.com/in/fredrik
-    - https://www.facebook.com/fredrik.averpil
-    - https://github.com/fredrikaverpil
+# twitter:
+#   username:           fredrikaverpil
+#   url:                https://twitter.com/fredrikaverpil
+# social:
+#   name:               Fredrik Averpil
+#   links:
+#     - https://linkedin.com/in/fredrik
+#     - https://www.facebook.com/fredrik.averpil
+#     - https://github.com/fredrikaverpil
 
 # Custom vars
 custom_pages:
@@ -36,6 +36,7 @@ custom_pages:
 github:
     url:              https://github.com/fredrikaverpil
     repo:             https://github.com/fredrikaverpil/fredrikaverpil.github.io
+    
 excerpt_separator:    <!--more-->
 google_analytics:     UA-70773524-1
 hyde_version:         2.1.0
@@ -48,4 +49,4 @@ force_https:          true
 comments:
   use_disqus:         true
   use_googleplus:     false
-  disqus_shortname:   ffredrikk
+  disqus_shortname:   elpie89
