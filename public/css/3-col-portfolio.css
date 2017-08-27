@@ -3,7 +3,41 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
  */
- @media (min-width: 768px){
+/* Container
+ *
+ * Align the contents of the site above the proper threshold with some margin-fu
+ * with a 25%-wide `.sidebar`.
+ */
+
+ .content {
+    padding-top:    4rem;
+    padding-bottom: 4rem;
+  }
+  
+  @media (min-width: 48em) {
+    .content {
+      max-width: 38rem;
+      margin-left: 20rem;
+      margin-right: 2rem;
+    }
+  }
+  
+  @media (min-width: 64em) {
+    .content {
+      margin-left: 22rem;
+      margin-right: 4rem;
+    }
+  }
+
+
+ .container {
+    max-width: 38rem;
+    padding-left:  1rem;
+    padding-right: 1rem;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+ /* @media (min-width: 768px){
  .portfolio {
      max-width: 720px;
  }
@@ -12,7 +46,7 @@
  .portfolio {
      max-width: 540px;
  }
-}
+} */
 .portfolio{
     box-sizing: border-box;margin-right: auto;
     margin-left: auto;
