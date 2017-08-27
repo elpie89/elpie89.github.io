@@ -5,6 +5,18 @@ layout: default
 <div class="portfolio">
   
   <div>
+
+        {% for portfolio-item in site.portfolio limit:3 %}
+        <li>
+          <h3>
+            <a href="{{ post.url }}">
+              <!-- {{ post.title }}
+              <small>{{ post.date | date_to_string }}</small> -->
+            </a>
+          </h3>
+        </li>
+      {% endfor %}
+
         <div class="portfolio-item">
             <div class="card">
             <a href="#"><img class="card-img-top" src="https://sites.google.com/site/facaelectrica/_/rsrc/1321884451223/config/customLogo.gif?revision=8" alt=""></a>

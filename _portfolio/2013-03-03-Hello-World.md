@@ -1,5 +1,6 @@
 ---
-layout: portfolioitem
+layout: post
 title: Sample Item
 ---
 
+adas
