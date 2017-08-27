@@ -16,7 +16,7 @@
   
   @media (min-width: 48em) {
     .content {
-      max-width: 38rem;
+        max-width: 60rem;
       margin-left: 20rem;
       margin-right: 2rem;
     }
@@ -31,7 +31,7 @@
 
 
  .container {
-    max-width: 38rem;
+    /* max-width: 38rem; */
     padding-left:  1rem;
     padding-right: 1rem;
     margin-left:  auto;
