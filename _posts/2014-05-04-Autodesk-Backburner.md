@@ -2,7 +2,7 @@
 layout: post
 title: Autodesk Backburner,un tool decisamente migliorabile!
 ---
-<img src="{{ site.baseurl }}/images/backburner/backburner.jpg" alt="Backburner" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/backburner/backburner.jpg" alt="Backburner" style="width: auto;"/>
 Scrivo questo post come reference personale, per poterla riusare tra qualche mese visto che non mi capita spesso di renderizzare sequenze animate
 In ogni caso quello di cui voglio parlare è l’utility per la gestione del rendering in rete di casa Autodesk:
 Autodesk Backburner
@@ -42,12 +42,12 @@ nel master:
 BB manager e impostare una cartella di lavoro per Backburner stesso (io ne ho creata una dentro la cartella “maya” chiamandola backburner_job)
 LA CARTELLA DI LAVORO DA IMPOSTERE IN “WIN32 PATH”  DEVE ESSERE UN PERCORSO DI RETE
 Ovviamente Backburner sfruttando il protocollo TCP/IP sfrutta delle porte, io ho lasciato quelle di default di BB ma potete cambiarle
-<img src="{{ site.baseurl }}/images/backburner/manager.jpg" alt="Manager" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/backburner/manager.jpg" alt="Manager" style="width: auto;"/>
 Nel master e nei server:
 Dovete lanciare BB Server che vi chiederà un nome da assegnare alla macchina corrente e l’ip della macchina su cui è aperto il manager
-<img src="{{ site.baseurl }}/images/backburner/server.jpg" alt="Server" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/backburner/server.jpg" alt="Server" style="width: auto;"/>
 A questo punto se aprite il monitor dovreste vedere i server connessi alla rete in uno stato di attesa
-<img src="{{ site.baseurl }}/images/backburner/monitor.jpg" alt="Monitor" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/backburner/monitor.jpg" alt="Monitor" style="width: auto;"/>
 nella foto i server sono 1 occupato e un inattivo,nel vostro caso c’è scritto “idle”
 Creazione del Backburner job
 A questo punto non ci resta che impostare il lavoro da dare in pasto al renderer e da far gestire a Backburner, il tutto ovviamente dalla macchina master e all’interno di maya
@@ -58,7 +58,7 @@ E non:
 C:\Users\Home\Documents\maya\projects\RenderJob
 Andiamo ora in Render->Create Backburner job
 Impostiamo i parametri e clicchiamo su submit job
-<img src="{{ site.baseurl }}/images/backburner/BBJOB.jpg" alt="Backburner Job" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/backburner/BBJOB.jpg" alt="Backburner Job" style="width: auto;"/>
 Un discorso a parte andrebbe fatto sui setting,in generale però basta sapere task size sta per il  numero di frame da assegnare ad ogni task,e che sono importantissime le opzioni aggiuntive dove io scritto -mr:art
 ovvero che il renderer deve essere mental ray e che deve usare tutti i core della CPU a disposizione.
 Questa riga ovviamente e a vostra discrezione.

@@ -2,7 +2,7 @@
 layout: post
 title: SVN-Slack Integration
 ---
-<img src="{{ site.baseurl }}/images/slack_svn_integration/slack_subversion.jpg" alt="SVN-Slack" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/slack_svn_integration/slack_subversion.jpg" alt="SVN-Slack" style="width: auto;"/>
 
 Today I wanna speak about the integration of Svn in Slack.
 Slack is a really powerful tool and Subversion as well.
@@ -17,13 +17,13 @@ Let's see how to configure everything.
  <!--more-->
 
 <h2>Install Subversion app into Slack</h2>
-<img src="{{ site.baseurl }}/images/slack_svn_integration/slack_app_integration.jpg" alt="SVN-Slack" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/slack_svn_integration/slack_app_integration.jpg" alt="SVN-Slack" style="width: auto;"/>
 
 <h2>Add a configuration for a single channel of Slack</h2>
-<img src="{{ site.baseurl }}/images/slack_svn_integration/add_channel.jpg" alt="Add channel" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/slack_svn_integration/add_channel.jpg" alt="Add channel" style="width: auto;"/>
 
 <h2>Keep note of the token</h2>
-<img src="{{ site.baseurl }}/images/slack_svn_integration/token.jpg" alt="Token" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/slack_svn_integration/token.jpg" alt="Token" style="width: auto;"/>
 
 <h2>Backend work</h2>
  

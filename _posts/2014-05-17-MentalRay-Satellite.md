@@ -2,7 +2,7 @@
 layout: post
 title: MentalRay Satellite network rendering!
 ---
-<img src="{{ site.baseurl }}/images/mentalray_satellite/satellite-dish-lamit-hub.jpg" alt="mentalray satellite" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/mentalray_satellite/satellite-dish-lamit-hub.jpg" alt="mentalray satellite" style="width: auto;"/>
 
 Come avevo promesso oggi parlo del network-rendering utilizzabile su uno stesso frame.
 Anche questa è più una repository personale di appunti su come preparare la configurazione, visto che non mi capita molto spesso di farlo
