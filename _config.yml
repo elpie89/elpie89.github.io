@@ -23,19 +23,19 @@ gems:
 # twitter:
 #   username:           fredrikaverpil
 #   url:                https://twitter.com/fredrikaverpil
-# social:
-#   name:               Fredrik Averpil
-#   links:
-#     - https://linkedin.com/in/fredrik
-#     - https://www.facebook.com/fredrik.averpil
-#     - https://github.com/fredrikaverpil
+social:
+  name:               Luca Pierabella
+  links:
+    - https://www.linkedin.com/in/luca-pierabella-93308413
+    - https://www.facebook.com/luca.pierabella
+    - https://github.com/elpie89
 
 # Custom vars
 custom_pages:
   feed:               /atom.xml
 github:
-    url:              https://github.com/fredrikaverpil
-    repo:             https://github.com/fredrikaverpil/fredrikaverpil.github.io
+    url:              https://github.com/elpie89
+    repo:             https://github.com/elpie89/elpie89.github.io
     
 excerpt_separator:    <!--more-->
 google_analytics:     UA-70773524-1
