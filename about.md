@@ -36,4 +36,4 @@ This blog is based on the excellent [Hyde]({{ site.hyde_repo }}) theme (v{{ site
 - Switch to https if accessing site through http
 - Jekyll SEO
 
-The source code for this blog is available [here]({{ site.github.repo }}).
+The source code for this blog is available [here]({{ site.github.repo }}) and it's forked from [here](https://github.com/fredrikaverpil/fredrikaverpil.github.io)
