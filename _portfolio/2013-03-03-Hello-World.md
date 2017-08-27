@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolioitem
 title: Sample Item
 ---
 
