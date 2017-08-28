@@ -57,8 +57,6 @@
 
 .card {
     position: relative;
-    display: -ms-flexbox;
-    display: flex;
     -ms-flex-direction: column;
         flex-direction: column;
     min-width: 0;
@@ -71,7 +69,8 @@
   .card-body {
     -ms-flex: 1 1 auto;
         flex: 1 1 auto;
-    padding: 1.25rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
   
   

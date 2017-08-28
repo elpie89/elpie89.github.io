@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MentalRay Material Pass support
+tags: [maya, mentalray]
 ---
 
 Just for future reference, sometimes a blog may also serve in this

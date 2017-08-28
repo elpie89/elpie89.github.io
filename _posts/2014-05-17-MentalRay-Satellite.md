@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MentalRay Satellite network rendering!
+tags: [maya, mentalray]
 ---
 <img src="{{ site.baseurl }}/assets/blog/mentalray_satellite/satellite-dish-lamit-hub.jpg" alt="mentalray satellite" style="width: auto;"/>
 

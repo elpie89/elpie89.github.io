@@ -6,41 +6,17 @@ layout: default
   
   <div>
 
-        {% for portfolio-item in site.portfolio limit:3 %}
-        <li>
-          <h3>
-            <a href="{{ post.url }}">
-              <!-- {{ post.title }}
-              <small>{{ post.date | date_to_string }}</small> -->
-            </a>
-          </h3>
-        </li>
-      {% endfor %}
-
+        {% for portfolio_item in site.portfolio reversed limit:3 %}
         <div class="portfolio-item">
             <div class="card">
-            <a href="#"><img class="card-img-top" src="https://sites.google.com/site/facaelectrica/_/rsrc/1321884451223/config/customLogo.gif?revision=8" alt=""></a>
+                <a href="{{ portfolio_item.url }}"><img class="card-img-top" src="/assets/portfolio/{{ portfolio_item.preview }}" alt="{{portfolio_item.title}}"></a>
             <div class="card-body">
-                <h4>
-                <a href="#">Project One</a>
-                </h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                <h2><a href="{{ portfolio_item.url }}">{{ portfolio_item.title }}</a></h2>
+                {{ portfolio_item.content | split:'<!--more-->' | first }}
             </div>
             </div>
         </div>
-
-        <div class="portfolio-item">
-                <div class="card">
-                <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-                <div class="card-body">
-                    <h4>
-                    <a href="#">Project One</a>
-                    </h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
-                </div>
-                </div>
-        </div>
-        <!-- /.row -->
+      {% endfor %}
     
         <!-- Pagination -->
         <!-- <ul class="pagination justify-content-center">
