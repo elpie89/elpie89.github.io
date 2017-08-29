@@ -4,7 +4,7 @@ title: Ratatouille
 preview: ratatouille/preview.jpg
 ---
 
-Just a maxwell render test!!!
+Just fun character creation in a moment of free time
 
 <!--more-->
 
