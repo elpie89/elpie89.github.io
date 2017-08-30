@@ -1,7 +1,7 @@
 ---
 layout: portfolioitem
 title: Madeleine
-preview: madeleine/preview.jpg
+preview: madeleine/preview.JPG
 ---
 This is just a sculpting exercise.
 Made with zBrush
