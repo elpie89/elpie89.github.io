@@ -9,7 +9,7 @@ layout: fullwidth
               <div class="card">
                   <a href="{{ portfolio_item.url }}"><img class="card-img-top" src="/assets/portfolio/{{ portfolio_item.preview }}" alt="{{portfolio_item.title}}"></a>
               <div class="card-body">
-                  <h2><a href="{{ portfolio_item.url }}">{{ portfolio_item.title }}</a></h2>
+                  <h2><a class="portfolio-title" href="{{ portfolio_item.url }}">{{ portfolio_item.title }}</a></h2>
                   {{ portfolio_item.content | split:'<!--more-->' | first }}
               </div>
               </div>
