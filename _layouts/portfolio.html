@@ -4,7 +4,7 @@ layout: fullwidth
 
 <div class="portfolio">    
     <div>  
-          {% for portfolio_item in site.portfolio reversed limit:20 %}
+          {% for portfolio_item in site.portfolio reversed limit:30 %}
           <div class="portfolio-item">
               <div class="card">
                   <a href="{{ portfolio_item.url }}"><img class="card-img-top" src="/assets/portfolio/{{ portfolio_item.preview }}" alt="{{portfolio_item.title}}"></a>
