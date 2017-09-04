@@ -3,15 +3,17 @@ layout: portfolioitem
 title: Object Duplicator
 preview: objduplicator/preview.jpg
 ---
-This character is Lovecraft, one of the four main characters of The Steampunk League.
-I modeled this character following both the concept, both the old 3d, in fact this model is a Revamp
-The character had already been previously modeled by another person and then rigged by me.
-However, it was decided to do it again and this is my version
-Obviously everything was sculpted and textured in ZBrush, ritopologgizzato Topogun and then rendered in the Marmoset, before being sent inside Unity
-
 <!--more-->
-<iframe src="https://player.vimeo.com/video/118397949" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/118397949">Lovecraft turntable</a> from <a href="https://vimeo.com/user1489637">Luca Pierabella</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<a href="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-001.jpg"><img src="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-001.jpg" alt="Mr Incredible" style="width: auto;"/>
 
-<iframe src="https://player.vimeo.com/video/118398346" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/118398346">Lovecraft Walk</a> from <a href="https://vimeo.com/user1489637">Luca Pierabella</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Often , when I have no special task I try to learn new skills, this tool goes back to the beginning of my experience with Unity.
+I found somewhere in the web a tutorial to write a tool to replace the objects , what is below is the result of this tutorial with the addition of a part of the subjective characteristics.
+This tool examines in particular a number of selected objects and replaces them with an array object , leaving the possibility to choose whether to copy all or selected attributes
+
+<a href="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-003.jpg"><img src="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-003.jpg" alt="Object Duplicator A" style="width: auto;"/>
+
+<a href="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-004.jpg"><img src="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-004.jpg" alt="Object Duplicator B" style="width: auto;"/>
+
+Another of the features added later to the tool is the ability to copy a certain object parametrically specifying the number of instances to be duplicated in a direction and with an optional offset.
+
+<a href="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-008.jpg"><img src="{{ site.baseurl }}/assets/portfolio/objduplicator/Image-008.jpg" alt="Object Duplicator C" style="width: auto;"/>
