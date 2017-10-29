@@ -34,4 +34,4 @@ As you can see by specifying the new group or the “father” to contain object
 <a href="{{ site.baseurl }}/assets/portfolio/filterhierarchy/ParentToGroup2.jpg"><img src="{{ site.baseurl }}/assets/portfolio/filterhierarchy/ParentToGroup2.jpg" alt="To order" style="width: auto;"/>
 
 <iframe src="https://player.vimeo.com/video/166687701" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/166687701">Copy Components</a> from <a href="https://vimeo.com/user1489637">Luca Pierabella</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/166687701">Filter Hierarchy</a> from <a href="https://vimeo.com/user1489637">Luca Pierabella</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
