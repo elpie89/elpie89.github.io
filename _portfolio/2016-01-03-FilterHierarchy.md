@@ -6,6 +6,7 @@ preview: filterhierarchy/preview.jpg
 Often in my experience in Unity I heavily retouched the scene, when I bake lights or ambient occlusion for example, props are never “ordered” as they should be.
 So i needed to write a tool that allow me to filter items based on the components in them and then rearrange them and parents at my leisure
 
+
 <!--more-->
 <a href="{{ site.baseurl }}/assets/portfolio/filterhierarchy/ToOrder.jpg"><img src="{{ site.baseurl }}/assets/portfolio/filterhierarchy/ToOrder.jpg" alt="To order" style="width: auto;"/>
 
