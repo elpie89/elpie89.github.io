@@ -56,3 +56,5 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+
+repository:	elpie89/elpie89.github.io
