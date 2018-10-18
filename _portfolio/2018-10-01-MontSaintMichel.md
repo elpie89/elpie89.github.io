@@ -9,6 +9,8 @@ preview: saintmichel/saintmichel_preview.jpg
 
 [Mont Saint Michel project page](http://www.holoforge.io/work/history-and-culture-through-mixed-reality)
 
+[Mont Saint Michel -Microsoft blog](https://news.microsoft.com/fr-fr/2018/10/10/microsoft-met-la-realite-mixte-au-service-du-patrimoine-culturel-francais/)
+
  _"The Mont Saint-Michel: Digital perspectives on the model"_ a HoloLens experience celebrating French culture and innovation: The goal of the exhibit is to use mixed reality technology in a way that empowers the Musée des Plans-Reliefs to unlock a more vital kind of storytelling.
 
 <a href="{{ site.baseurl }}/assets/portfolio/saintmichel/visualcatalog.jpg"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/visualcatalog.jpg" alt="Visual Catalog" style="width: auto;"/>
