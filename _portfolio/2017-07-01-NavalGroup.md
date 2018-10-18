@@ -10,7 +10,7 @@ preview: navalgroup/navalgroup_preview.jpg
 
 [NAVALGROUP project official page](http://www.holoforge.io/work/naval-group)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/VFdjVJxJWwE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/VFdjVJxJWwE?start=7988" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Responsibility:
 
