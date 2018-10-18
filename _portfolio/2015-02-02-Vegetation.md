@@ -3,7 +3,7 @@ layout: portfolioitem
 title: Vegetation Shader
 preview: vegetation/preview.png
 ---
-This is a simple demonstration of how i structured the shader for vegetation in the real-time rendering engine Unity
+This is a simple demonstration of how I structured the shader for vegetation in the real-time rendering engine Unity
 <!--more-->
 <iframe src="https://player.vimeo.com/video/118272044" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/118272044">Vegetation Shader</a> from <a href="https://vimeo.com/user1489637">Luca Pierabella</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -1,6 +1,6 @@
 ---
 layout: portfolioitem
-title: NAVALGROUP
+title: NavalGroup
 preview: navalgroup/navalgroup_preview.jpg
 ---
 <!--more-->
