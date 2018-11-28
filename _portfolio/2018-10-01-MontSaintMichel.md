@@ -9,7 +9,7 @@ preview: saintmichel/saintmichel_preview.jpg
 
 [Mont Saint Michel project page](http://www.holoforge.io/work/history-and-culture-through-mixed-reality)
 
-[Mont Saint Michel -Microsoft blog](https://news.microsoft.com/fr-fr/2018/10/10/microsoft-met-la-realite-mixte-au-service-du-patrimoine-culturel-francais/)
+[Mont Saint Michel - Microsoft page](https://www.microsoft.com/inculture/arts/le-mont-saint-michel-mixed-reality/)
 
  _"The Mont Saint-Michel: Digital perspectives on the model"_ a HoloLens experience celebrating French culture and innovation: The goal of the exhibit is to use mixed reality technology in a way that empowers the Musée des Plans-Reliefs to unlock a more vital kind of storytelling.
 
@@ -19,6 +19,8 @@ The biggest challenge on this project was to find a way to display a 3d scanned 
 
 
 <a href="{{ site.baseurl }}/assets/portfolio/saintmichel/original.jpg"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/original.jpg" alt="Original model" style="width: auto;"/>
+
+<a href="{{ site.baseurl }}/assets/portfolio/saintmichel/result.jpg"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/result.jpg" alt="Acchieved result" style="width: auto;"/>
 
 In order the texture were gorgeous and completely non-optimized (21 Texture of 16kx16k resolution)
 
