@@ -23,16 +23,12 @@ Here we have the 3 official Microsoft Today in Technology episodes.
 
 
 The biggest challenge on this project was to find a way to display a 3d scanned object of 13,5 millions polygons inside a Hololens application
-
-
-<a href="{{ site.baseurl }}/assets/portfolio/saintmichel/original.jpg"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/original.jpg" alt="Original model" width="1280"/>
-
-<a href="{{ site.baseurl }}/assets/portfolio/saintmichel/result.jpg"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/result.jpg" alt="Acchieved result" width="1280"/>
-
 In order the texture were gorgeous and completely non-optimized (21 Texture of 16kx16k resolution)
 
 
-<a href="{{ site.baseurl }}/assets/portfolio/saintmichel/textures.jpg"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/textures.jpg" alt="Textures" width="1280"/>
+<img src="{{ site.baseurl }}/assets/portfolio/saintmichel/original.jpg" alt="Original model" width="600"/> | <img src="{{ site.baseurl }}/assets/portfolio/saintmichel/textures.jpg" alt="Textures" width="600"/>
+
+<img src="{{ site.baseurl }}/assets/portfolio/saintmichel/result.jpg" alt="Acchieved result" width="1280"/>
 
 This challenge has been accomplished using a combination of Maya, Zbrush, Sympligon and Turtle Bake Renderer  
 I'm really proud of this job because it was originally estimated on 4 weeks of full work for one man.
@@ -41,7 +37,7 @@ Thanks to this workflow I reduced the modelling time in 2 days and 3 other days 
 
 I will write a more detailed article in next days, on how to face this type of problem.
 
-<a href="{{ site.baseurl }}/assets/portfolio/saintmichel/mont.gif"><img src="{{ site.baseurl }}/assets/portfolio/saintmichel/mont.gif" alt="Textures" width="1280"/>
+<img src="{{ site.baseurl }}/assets/portfolio/saintmichel/mont.gif" alt="Textures" width="1280"/>
 
 As always I have been responsible of:
 - Performance check, be sure that the application play at 60 fps
