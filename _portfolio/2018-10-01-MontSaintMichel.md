@@ -5,8 +5,6 @@ preview: saintmichel/saintmichel_preview.jpg
 ---
 <!--more-->
 
-**PORTFOLIO PAGE WORK IN PROGRESS**
-
 [Mont Saint Michel project page](http://www.holoforge.io/work/history-and-culture-through-mixed-reality)
 
 [Mont Saint Michel - Microsoft page](https://www.microsoft.com/inculture/arts/le-mont-saint-michel-mixed-reality/)
