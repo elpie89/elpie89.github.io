@@ -28,7 +28,7 @@ In order the texture were gorgeous and completely non-optimized (21 Texture of 1
 
 <img src="{{ site.baseurl }}/assets/portfolio/saintmichel/original.jpg" alt="Original model" width="600"/> | <img src="{{ site.baseurl }}/assets/portfolio/saintmichel/textures.jpg" alt="Textures" width="600"/>
 
-<img src="{{ site.baseurl }}/assets/portfolio/saintmichel/result.jpg" alt="Acchieved result" width="1280"/>
+<img src="{{ site.baseurl }}/assets/portfolio/saintmichel/final.jpg" alt="Acchieved result" width="1280"/>
 
 This challenge has been accomplished using a combination of Maya, Zbrush, Sympligon and Turtle Bake Renderer  
 I'm really proud of this job because it was originally estimated on 4 weeks of full work for one man.
@@ -39,9 +39,9 @@ I will write a more detailed article in next days, on how to face this type of p
 
 <img src="{{ site.baseurl }}/assets/portfolio/saintmichel/mont.gif" alt="Textures" width="1280"/>
 
-As always I have been responsible of:
-- Performance check, be sure that the application play at 60 fps
-- Management of stage assistant,and be sure his work was properly integrated into application
+As always I have been responsible for:
+- Performance check, be sure that the application runs at 60 fps
+- Management of stage assistant,and be sure his work was properly integrated into the application
 - Instruct the UI designer and Motion designer of proper workflow to reduce production time
 - Creation of Unity utilities, to leave freedom to the artist on the artistic side of the project
 - Integration of custom FX like the Point Cloud Renderer 
