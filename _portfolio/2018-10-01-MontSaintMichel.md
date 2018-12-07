@@ -1,6 +1,6 @@
 ---
 layout: portfolioitem
-title: Le Mont Sant Michel
+title: Le Mont Saint Michel
 preview: saintmichel/saintmichel_preview.jpg
 ---
 <!--more-->
