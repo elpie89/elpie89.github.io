@@ -9,6 +9,8 @@ In the last month I moved into a new position in my company, I decided to be mor
 I really think that to learn something I need to get out of my comfort zone.
 That's why I grabbed 3DS Max (leaving my beloved Maya) and I decided to build my tools completely in Python
 
+ <!--more-->
+
 So let's keep it clear, 3DS Max has a really non mature python SDK, the fastest way to write tools in max for year has been MaxScript(And almost certainly ,it is still the same today)
 But there is a different between a fast job and a proper job
 I mean with maxscript, from what I see you can do everything, but the point is..how?
@@ -170,11 +172,11 @@ I have an installation of Maya that come with the Qt designer already installed 
 
 As before let's create an external tool to open *.ui file with the Qt designer
 
-<img src="{{ site.baseurl }}/assets/blog/3dsmaxdev/qtdesigner.PNG" alt="Qt Designer" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/3dsmaxdev/QTDesigner.PNG" alt="Qt Designer" style="width: auto;"/>
 
 You can now build your ui and preview with ctrl+R
 
-<img src="{{ site.baseurl }}/assets/blog/3dsmaxdev/qtdesignerInApp.PNG" alt="Qt Designer" style="width: auto;"/>
+<img src="{{ site.baseurl }}/assets/blog/3dsmaxdev/QTDesignerInApp.PNG" alt="Qt Designer" style="width: auto;"/>
 
 For more information on how to use ui and  python read Autodesk [doc](https://help.autodesk.com/view/3DSMAX/2019/ENU/?guid=__py_ref_demo_py_side_loader_8py_example_html)
 
