@@ -3,8 +3,6 @@ layout: post
 title: Tool Development in 3Ds Max
 ---
 
-# Tool Development in 3Ds Max
-
 In the last month I moved into a new position in my company, I decided to be more focused on tool development for 3DS Max. I'm still a Technical Artist but fortunately this title is very large and give me the possibility to change when I'm little bit bored, or I think it is time to improve my skill in some area
 I really think that to learn something I need to get out of my comfort zone.
 That's why I grabbed 3DS Max (leaving my beloved Maya) and I decided to build my tools completely in Python
