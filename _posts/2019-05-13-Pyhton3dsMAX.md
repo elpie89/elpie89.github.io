@@ -118,7 +118,7 @@ to
 C:\Program Files\Autodesk\3ds Max 2019\python\pydevd-pycharm.egg
 ```
 
-if now add this line on top of your script you should be able to debug
+Adding this line on top of your script you should be able to debug
 
 ```python
 
@@ -181,6 +181,4 @@ For more information on how to use ui and  python read Autodesk [doc](https://he
 ## MaxScript support
 We can also use [PyCharm to run maxscript](https://cgreminders.tumblr.com/post/108045289945/maxscript-highlighter-for-pycharm) but of course we cannot have the debugger
 
-
-
-I will write in my next post some in formation on how to build an SDK and how to keep everything consistent using Test Driven development
+I will write in my next posts some in formation on how to build an SDK and how to keep everything consistent using Test Driven development
