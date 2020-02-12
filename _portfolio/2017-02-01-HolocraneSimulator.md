@@ -10,7 +10,7 @@ preview: holocrane/holocrane.jpg
 Responsibility:
 
 - integration of 3d assets
-- creation and optimization of custom shader inside the applicaion
-- createtion of the animation 
+- creation and optimization of custom shader inside the application
+- animations
 - lighting of scenes
 - make sure the application play at 60 fps 

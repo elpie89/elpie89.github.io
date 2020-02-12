@@ -3,8 +3,8 @@ layout: portfolioitem
 title: Mr Incredible
 preview: mrincredible/preview.jpg
 ---
-Mr Incredible, super hero and cartoon Pixar, wonderful.
-I wanted to make my own version for exercise.
+Mr. Incredible, superhero and cartoon Pixar, wonderful.
+I wanted to make my version for exercise.
 I used Maya and ZBrush
 
 

@@ -4,14 +4,15 @@ title: SVN-Slack Integration
 ---
 <img src="{{ site.baseurl }}/assets/blog/slack_svn_integration/slack_subversion.jpg" alt="SVN-Slack" style="width: auto;"/>
 
-Today I wanna speak about the integration of Svn in Slack.
+Today I wanna speak about the integration of SVN in Slack.
 Slack is a really powerful tool and Subversion as well.
-But in those developer days everything should be connected and customizable.
-So what happen if I wont to notify to everyone who are involved in my project on how I'm working on it?
-Using just Slack I have to notify manually everyone the states of my work in a particular slack channel or  in a private conversion.
-So fortunately there is a way to integrate Subversion with slack and to send all the commit log directly in a channel of Slack.
-The reason why I write an article is that is not so simple to integrate this ,because lot of app in slack need just to be installed.
-With subversion we have to do some extra-work in the machine who contain the repo.
+But in those developer days, everything should be connected and customizable.
+So what happens if I wont to notify everyone who is involved in my project on how I'm working on it?
+Using just Slack I have to notify manually everyone of the states of my work in a particular slack channel or a private conversation.
+So, fortunately, there is a way to integrate Subversion with slack and to send all the commit log directly in a channel of Slack.
+The reason why I write an article is that is not so simple to integrate this features as you could imagine.
+A lot of app in slack need just to be installed, this is not the case
+With subversion, we have to do some extra work in the machine who contains the repo.
 
 Let's see how to configure everything.
  <!--more-->

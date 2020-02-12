@@ -3,15 +3,15 @@ layout: portfolioitem
 title: Vegetation Shader
 preview: vegetation/preview.png
 ---
-This is a simple demonstration of how I structured the shader for vegetation in the real-time rendering engine Unity
+This is a simple demonstration of how I structured a vegetation shader in the real-time rendering engine Unity
 <!--more-->
 <iframe src="https://player.vimeo.com/video/118272044" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/118272044">Vegetation Shader</a> from <a href="https://vimeo.com/user1489637">Luca Pierabella</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <a href="{{ site.baseurl }}/assets/portfolio/vegetation/vegetationInspector.jpg"><img src="{{ site.baseurl }}/assets/portfolio/vegetation/vegetationInspector.jpg" alt="Vegetation" style="width: auto;"/>
 
-The purpose of this shader is to simulate the wind force acting on leaves and on the vegetation in general
-In order to achieve this effect I chose a classic approach to working directly on the vertices
+The purpose of this shader is to simulate the wind force acting on leaves and the vegetation in general
+To achieve this effect I chose a classic approach to working directly on the vertices
 The shader I wrote in very few words takes as input a force and a direction to simulate wind and apply them at each vertex
 To be able to give more control to the artist can give color information at each vertex influencing so differently for different points
 

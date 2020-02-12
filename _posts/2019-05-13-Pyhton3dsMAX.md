@@ -3,29 +3,29 @@ layout: post
 title: Tool Development in 3Ds Max
 ---
 
-In the last month I moved into a new position in my company, I decided to be more focused on tool development for 3DS Max. I'm still a Technical Artist but fortunately this title is very large and give me the possibility to change when I'm little bit bored, or I think it is time to improve my skill in some area
+In the last month I moved into a new position in my company, I decided to be more focused on tool development for 3DS Max. I'm still a Technical Artist but fortunately, this role is very large and give me the possibility to change when I'm a little bit bored, or I think it is time to improve my skill in some area
 I really think that to learn something I need to get out of my comfort zone.
 That's why I grabbed 3DS Max (leaving my beloved Maya) and I decided to build my tools completely in Python
 
  <!--more-->
 
-So let's keep it clear, 3DS Max has a really non mature python SDK, the fastest way to write tools in max for year has been MaxScript(And almost certainly ,it is still the same today)
-But there is a different between a fast job and a proper job
+So let's keep it clear, 3DS Max has a really nonmature python SDK, the fastest way to write tools in Max for years has been MaxScript(and almost certainly, it is still the same today)
+But there is a difference between a fast job and a proper job
 I mean with maxscript, from what I see you can do everything, but the point is..how?
 Is it correct to call pieces of code in maxscript, randomly call batch script, or inject .Net code to achieve something?
 Can you make unit test development, or create a sort of SDK to avoid to reinvent the wheel every time you make a tool?
-I don't think so. I studied a bit of max script before to take my decision to switch to python.
+I don't think so. I studied a bit of maxscript before to take my decision to switch to python.
 To be honest, in a professional environment everyone should be able to prototype quickly and mess around with some maxscript cycle
 But the moment you start to do some complex tool, trying to write a complex UI, accessing library and processes outside 3dsMax,
-it is clear that max script is not enough, and also I do not like to learn languages useless.
+it is clear that maxscript is not enough, and also I do not like to learn useless languages.
 
-So I choose python and lets say if we can really use it in all his power in 3DSMax
+So I choose python and let's say if we can really use it in all his power in 3DSMax
 
 Disclaimer:
 Every language has is pro and cons but until Autodesk will continue to write documentation like a chimp, do not stress if you fill frustrated 
 if you spend one hour looking for a function, it's simply Autodesk
 
-Lets analyze some pro and cons
+Let's analyze some pro and cons
 
 I added a personal evaluation to the documentation based on a range from 0 to 5
 
@@ -36,17 +36,18 @@ I added a personal evaluation to the documentation based on a range from 0 to 5
 |Python   | 1  | yes  |  yes(PyQt/PySide) | interpreted  |
 |MaxScript | 4  |  no |  yes | interpreted  |
 
-C++ is the most powerful ,not so bad documented (we can expect more from Autodesk) but unfortunately you have to re-run max every time you recompile.
-In other recently I've seen a Python talk called "How to write fast python code".
-Someone notified to the man who exposed the talk the actually just writing the python code in c , was already a way to write fast python code.
-That is why the talk has been renamed  "How to write fast python code,and do not hate your job"
-So, no thanks, at least if I have to do something really memory-linked
+C++ is the most powerful, not so bad documented (we can expect more from Autodesk) but unfortunately, you have to re-run max every time you recompile.
+In other recently I've seen a Python talk called "How to write fast Python code".
+Someone notified to the man who exposed the talk the actually just writing the python code in c, was already a way to write fast Python code.
+That is why the talk has been renamed  "How to write fast python code, and do not hate your job"...I think this is already a clear point.
+So, no thanks, at least if I have to do something memory-linked
 
-.NET is so bad documented that I think is an Autodesk joke,but at least you have access to everything with good completion.And this really make the difference.
+.NET is so bad documented that I think is an Autodesk joke,but at least you have access to everything with good completion.And this make the difference.
 I'm contributing to development of BabylonJS specifically on the 3DSMax Exporter, and it is not so bad as development environment. Especially if you managed to add some pre/post build event to give you the possibility to fast build and deploy on Max
 
 Python can use both Max lib, at the same time if you want (max plus and pymxs), thanks to the fact that is interpreted we have a fast pipeline.
 And switching between MaxPlus documentation, maxscript documentation(in case you use pymxs) and PySide(really well documented), you can find mostly everything.
+NOTE: MaxPlus will be discontinued in the future versions of Max
 For the rest, thanks god for Google,
 [ADN forum](https://forums.autodesk.com/t5/3ds-max-programming/bd-p/area-b35?profile.language=en), and [techartist.org](http://tech-artists.org/)
 
@@ -182,3 +183,6 @@ For more information on how to use ui and  python read Autodesk [doc](https://he
 We can also use [PyCharm to run maxscript](https://cgreminders.tumblr.com/post/108045289945/maxscript-highlighter-for-pycharm) but of course we cannot have the debugger
 
 I will write in my next posts some in formation on how to build an SDK and how to keep everything consistent using Test Driven development
+
+
+ 

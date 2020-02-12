@@ -4,7 +4,7 @@ title: Ratatouille
 preview: ratatouille/preview.jpg
 ---
 
-Just fun character creation in a moment of free time
+Just fun...character creation spending some free time
 
 <!--more-->
 

@@ -3,7 +3,8 @@ layout: portfolioitem
 title: Copy Components Tool
 preview: copycomponents/preview.png
 ---
-This tool is probably one  the most useful and simple tool i’ve written so far . He simply evaluates two objects , and copies the contents of one of these in the destination, as this obviously they have produced some more specific uses such copy of all components without specifying nothing or the possibility of eliminating a number of components from the recipient object
+This tool is probably one of the most useful and simple tools I’ve written so far. It simply evaluates two objects and copies the contents of one of these in the destination.
+In order, it ask the user to eventually copy all components by default, or filtering witch one will be copied from the source object to the destination one
 
 <!--more-->
 <a href="{{ site.baseurl }}/assets/portfolio/copycomponents/Image-001.png"><img src="{{ site.baseurl }}/assets/portfolio/copycomponents/Image-001.png" alt="CopyComponents A" style="width: auto;"/>

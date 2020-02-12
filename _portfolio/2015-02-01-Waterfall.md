@@ -3,11 +3,11 @@ layout: portfolioitem
 title: Waterfall Shader
 preview: waterfall/preview.png
 ---
-In this project, i had to create two shader that were operating on transparency in more depth than the standard shaders of Unity.
-At the specific request of the Art Director of DiXidiasoft, so I created a couple of shaders, one that blend the transparencies taken input from different textures and another that acts additively with respect to the color in the background
+In this project, I had to create two shaders that were operating on transparency with more precision than the standard shaders of Unity.
+At the specific request of the Art Director of DiXidiasoft, so I created a couple of shaders, one that blends the transparencies taken input from different textures and another that acts additively concerning the color in the background
 <!--more-->
-What you see is therefore the result visually integrated in the game The Steampunk League.
-Everything then was combined with a script C # that has allowed us to give a constant offset to the UV in real-time.
+What you see is, therefore, the result visually integrated into the game The Steampunk League.
+Everything then was combined with a script C# that has allowed us to give a constant offset to the UV in real-time.
 
 # Waterfall 
 
