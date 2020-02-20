@@ -31,7 +31,7 @@ My main task was to anticipate artists' needs by observing the pipeline used, pr
 
 [BabylonJS EXPORTERS project](https://github.com/BabylonJS/Exporters)
 
-With over 200 commits to my credit, I contributed to the development of this plugin, helping the BabylonJS community while giving the internal and external developers of the flight sim team all the improvements, tools, and ideas that such an impressive production requires. Among the most important things for the development pipeline are the support for Xref, 3ds Max Containers and the possibility to separate animations from model data.
+With over 100 commits to my credit, I contributed to the development of this plugin, helping the BabylonJS community while giving the internal and external developers of the flight sim team all the improvements, tools, and ideas that such an impressive production requires. Among the most important things for the development pipeline are the support for Xref, 3ds Max Containers and the possibility to separate animations from model data.
 
 It is also my responsibility to create tools in 3ds Max. For this task, I opted for a pipeline very different from what it is classically done other companies. Instead of writing tools in MaxScript, only Python(PYMXS) has been used, with the purpose of being able to write an SDK that is adaptable and maintainable over time, using the logic of separation of the UI from the functional code. Taking advantage of Qt Designer and in general from all improvements provided by the Qt API.
   
