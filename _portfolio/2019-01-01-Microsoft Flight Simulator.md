@@ -9,10 +9,8 @@ preview: flightsim/flightsim_preview.jpg
 
 [Microsoft Flight Simulator - Asobo Page](https://www.asobostudio.com/games/microsoft-flight-simulator)
 
-
-A journey into Microsoft Flight Simulator Development
-
-Microsoft Flight Simulator is the oldest IP of Microsoft (1976), older than the Windows operating system. In 2019, at E3, Microsoft announced the new Microsoft Flight Simulator that will be released in 2020.
+Microsoft Flight Simulator is the oldest IP of Microsoft (1976), older than the Windows operating system.
+In 2019, at E3, Microsoft announced the new Microsoft Flight Simulator that will be released in 2020.
 The project is developed by Asobo Studio and I was lucky enough to be part of the development team, with whom, at the time of writing, I'm still working.
 The technologies used innovate the industry, such as the intensive use of data taken from satellite imagery (Bing Maps), aided by artificial intelligence through Microsoft Azure.
 
