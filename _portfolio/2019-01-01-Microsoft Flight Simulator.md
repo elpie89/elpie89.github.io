@@ -43,5 +43,5 @@ To summarize my responsibilities:
 - Development of a python SDK for 3ds Max tools
 - Creating a tool to update the productivity tools, called MaxToolUpdater
 A 3ds Max plugin to manage and facilitate the update of scripts and plugins installed on the developer's Desktop, with Perforce integration. This improved a pipeline that required daily updates of exporters and other tools.
--Documentation for some of the developed tools
--Publication, in the Microsoft Flight Simulator SDK, of more than 10 glTF extensions used by FlightSimExporter, with JSON-schemas. 
+- Documentation for some of the developed tools
+- Publication, in the Microsoft Flight Simulator SDK, of more than 10 glTF extensions used by FlightSimExporter, with JSON-schemas. 
