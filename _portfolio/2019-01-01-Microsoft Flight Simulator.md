@@ -38,10 +38,10 @@ With over 200 commits to my credit, I contributed to the development of this plu
 It is also my responsibility to create tools in 3ds Max. For this task, I opted for a pipeline very different from what it is classically done other companies. Instead of writing tools in MaxScript, only Python(PYMXS) has been used, with the purpose of being able to write an SDK that is adaptable and maintainable over time, using the logic of separation of the UI from the functional code. Taking advantage of Qt Designer and in general from all improvements provided by the Qt API.
   
 To summarize my responsibilities:
-Integration of an asset reference system based on 3dsmax Containers and Xref that can export to the glTF format
-Development of a set of tools aimed to increase productivity in the creation of animations and LODs
-Development of a python SDK for 3ds Max tools
-Creating a tool to update the productivity tools, called MaxToolUpdater: (link max tool updater)ù
+- Integration of an asset reference system based on 3dsmax Containers and Xref that can export to the glTF format
+- Development of a set of tools aimed to increase productivity in the creation of animations and LODs
+- Development of a python SDK for 3ds Max tools
+- Creating a tool to update the productivity tools, called MaxToolUpdater
 A 3ds Max plugin to manage and facilitate the update of scripts and plugins installed on the developer's Desktop, with Perforce integration. This improved a pipeline that required daily updates of exporters and other tools.
-Documentation for some of the developed tools
-Publication, in the Microsoft Flight Simulator SDK, of more than 10 glTF extensions used by FlightSimExporter, with JSON-schemas. 
+-Documentation for some of the developed tools
+-Publication, in the Microsoft Flight Simulator SDK, of more than 10 glTF extensions used by FlightSimExporter, with JSON-schemas. 
